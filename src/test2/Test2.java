@@ -10,13 +10,13 @@ package test2;
  */
 public class Test2 {
 
-    /**
-     * @param args the command line arguments
-     */
+   
     public static void main(String[] args) {
         System.out.println("HOLAAAA");
         
         System.out.println("ADIOSSS");
+        
+        System.out.println("Holaaa soy Kiara");
     }
     
 }
